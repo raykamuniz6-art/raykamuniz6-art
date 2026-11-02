@@ -10,7 +10,14 @@ Tenho interesse em **Inteligência Artificial** e no desenvolvimento de soluçõ
 - Desenvolvimento de Software
 
 ### Tecnologias
-Atualmente, estou construindo minha base em programação e aprendendo novas ferramentas durante minha formação.
+### Tecnologias
+
+Atualmente, estou estudando e desenvolvendo conhecimentos nas seguintes tecnologias:
+
+- **C** — Lógica de programação e desenvolvimento de algoritmos.
+- **SQL** — Banco de dados e consultas.
+- **Git** — Controle de versão.
+- **GitHub** — Hospedagem e organização de projetos.
 
 ### Projetos
 Ao analisar os perfis do GitHub, consegui perceber algumas características em comum entre os desenvolvedores da área de Inteligência Artificial.  
