@@ -10,7 +10,6 @@ Tenho interesse em **Inteligência Artificial** e no desenvolvimento de soluçõ
 - Desenvolvimento de Software
 
 ### Tecnologias
-### Tecnologias
 
 Atualmente, estou estudando e desenvolvendo conhecimentos nas seguintes tecnologias:
 
