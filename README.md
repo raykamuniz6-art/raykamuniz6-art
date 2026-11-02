@@ -31,7 +31,6 @@ Pretendo deixar meu perfil mais organizado e criar uma apresentação que mostre
 Também quero melhorar a documentação dos meus projetos, explicando suas funcionalidades e tecnologias utilizadas.  
 Além disso, pretendo destacar meus melhores trabalhos para facilitar a visualização por outras pessoas.  
 Acredito que essas práticas vão ajudar a construir um perfil mais profissional e mostrar minha evolução como estudante de ADS.
-Confira meus repositórios para conhecer alguns dos projetos que desenvolvi durante a graduação.
 
 ### Contato
 - [LinkedIn](https://www.linkedin.com/in/rayka-muniz-21317a415/)
